@@ -1,0 +1,70 @@
+/* MAIN */
+body {
+max-width: 60em;
+margin: 0 auto 0 auto;
+background: #f2f2f2;
+* {font-family: "Calibri", sans-serif;}
+padding-top: 15px;
+}
+
+/* IMAGES */
+#eap {
+max-width: 30%; 
+height: auto;
+border-radius: 2%;
+float: left;
+margin-right: 15px;
+}
+
+/* LENORE */
+#lenore {
+max-width: 40%; 
+height: auto;
+border-radius: 2%;
+float: right;
+margin-top: 100px;
+margin-left: 50px;
+}
+
+/* TELL TALE HEART */
+#tth {
+max-width: 40%; 
+height: auto;
+border-radius: 2%;
+float: left;
+margin-right: 20px;
+margin-top: 15px;
+}
+
+/* TABLE */
+table, th, td {
+border-collapse: collapse;
+border: .5px solid #888;
+padding: 1em;
+margin-bottom: 15px;
+background-color: #4b0303;
+color: #f2f2f2;
+}
+
+#readings {
+color: black;
+}
+
+/* LINKS */
+a:link, a:visited {
+color: #870303;
+text-decoration: none;
+transition-duration: 0.6s;  
+    -moz-transition-duration: 0.6s;  
+    -webkit-transition-duration: 0.6s;  
+    -o-transition-duration: 0.6s
+}
+
+a:hover {
+color: #000000;
+text-decoration: none;
+transition-duration: 0.6s;  
+    -moz-transition-duration: 0.6s;  
+    -webkit-transition-duration: 0.6s;  
+    -o-transition-duration: 0.6s
+}
