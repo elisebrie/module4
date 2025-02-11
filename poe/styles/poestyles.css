@@ -54,17 +54,9 @@ color: black;
 a:link, a:visited {
 color: #870303;
 text-decoration: none;
-transition-duration: 0.6s;  
-    -moz-transition-duration: 0.6s;  
-    -webkit-transition-duration: 0.6s;  
-    -o-transition-duration: 0.6s
 }
 
 a:hover {
 color: #000000;
 text-decoration: none;
-transition-duration: 0.6s;  
-    -moz-transition-duration: 0.6s;  
-    -webkit-transition-duration: 0.6s;  
-    -o-transition-duration: 0.6s
 }
